@@ -1,0 +1,28 @@
+name: ry
+favicon: null
+layout_spectrum: 0.8618836523965001
+typography_spectrum: 0.8146996097639203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22881485428661108
+  lightness: 0.5880724664311856
+  saturation: 0.757199608720839
+  rhythmicContrast: 0.24139848118647933
+purpose: []
